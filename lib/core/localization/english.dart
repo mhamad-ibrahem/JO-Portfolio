@@ -1,0 +1,216 @@
+//english translate
+//need key of String and String value to show
+
+Map<String, String> englishLanguage = {
+  //Dio errors
+  "No internet connection": "No internet connection",
+  "TimeOut for the request": "TimeOut for the request",
+  'Something went wrong': 'Something went wrong',
+  'Retry': 'Retry',
+  //home page
+  "Services": "Services",
+  'SPECIAL OFFERS': 'SPECIAL OFFERS',
+  'RECENTLY ARRIVED': 'RECENTLY ARRIVED',
+  'See All': 'See All',
+  'AED': 'AED',
+  "About Us": "About Us",
+  'Contact Us': 'Contact Us',
+  'Privacy Policy': 'Privacy Policy',
+  'Terms & Condition': 'Terms & Condition',
+  //search
+  'Search': 'Search',
+  'Search...': 'Search...',
+  //profile
+  'Profile': 'Profile',
+  'Edit Profile': 'Edit Profile',
+  'Orders': 'Orders',
+  'Points': 'Points',
+  'Delete Account': 'Delete Account',
+  'Log Out': 'Log Out',
+  "Logout successfully": "Logout successfully",
+  "Account Deleted successfully": "Account Deleted successfully",
+  "Yes": "Yes",
+  "No": "No",
+  "Are you sure you want to delete this account ?":
+      "Are you sure you want to delete this account ?",
+  //product details
+  "Added successfully to cart": "Added successfully to cart",
+  'quantity updated successfully': 'quantity updated successfully',
+  'Brand : ': 'Brand : ',
+  'Category : ': 'Category : ',
+  'In Stock,': 'In Stock,',
+  'Not In Stock,': 'Not In Stock,',
+  'Description': 'Description',
+  "Add To Cart": "Add To Cart",
+  'Delete From Cart': 'Delete From Cart',
+  'Update Quantity': 'Update Quantity',
+  "Please add quantity to add to cart": "Please add quantity to add to cart",
+  'Related Products': 'Related Products',
+  "This product is out of stock":"This product is out of stock",
+  //order details
+  "Order Details": "Order Details",
+  'Quantity :': 'Quantity :',
+  'Order number ': 'Order number ',
+  'Total Price ': 'Total Price ',
+  'Price After Discount ': 'Price After Discount ',
+  'Currency ': 'Currency ',
+  'Date ': 'Date ',
+  'Coupon code ': 'Coupon code ',
+  'Payment method ': 'Payment method ',
+  //orders
+  "Order : ": "Order : ",
+  "Payment way : ": "Payment way : ",
+  "Total : ": "Total : ",
+  "Product Orders": "Product Orders",
+  "Services Orders": "Services Orders",
+  "ServicesProvider : ": "ServicesProvider : ",
+  "Company Name : ": "Company Name : ",
+  "Driver Name : ": "Driver Name : ",
+  "Status : ": "Status : ",
+  //favorite
+  "Added successfully": "Added successfully",
+  "Removed successfully": "Removed successfully",
+  'Favorite': 'Favorite',
+  'Brand :': 'Brand :',
+  //edit profile
+  "Updated successfully": "Updated successfully",
+  "Save": "Save",
+  'Company en name': 'Company en name',
+  'Company ar name': 'Company ar name',
+  'Email': 'Email',
+  'Phone': 'Phone',
+  'Arabic person name': 'Arabic person name',
+  'English person name': 'English person name',
+  'Person Phone': 'Person Phone',
+  'Select nation': 'Select nation',
+  'Princedom': 'Princedom',
+  'Address': 'Address',
+  " Name :": " Name :",
+  " Phone Number :": " Phone Number :",
+  " Email :": " Email :",
+  " Address :": " Address :",
+  " Princedom :": " Princedom :",
+  //contact us
+  "Message send successfully": "Message send successfully",
+  "Write your message": "Write your message",
+  'write your message her': 'write your message her',
+  'Send': 'Send',
+  'Title':'Title',
+  //choose location
+  "Warning": "Warning",
+  "Please enable location Service": "Please enable location Service",
+  "Please give permission for location to use this app":
+      "Please give permission for location to use this app",
+  "You can't use this app with out location service please enable location permission for this app from your device settings":
+      "You can't use this app with out location service please enable location permission for this app from your device settings",
+  'Choose Location': 'Choose Location',
+  "You can't use this app with out location permission":
+      "You can't use this app with out location permission",
+  "Please enable location permission for this app from your device settings":
+      "Please enable location permission for this app from your device settings",
+  "Continue": "Continue",
+  //check out
+  "Fill all data to create order": "Fill all data to create order",
+  "credit card payment not available for now":
+      "credit card payment not available for now",
+  "choose payment method": "choose payment method",
+  "Please add one product at less to complete checkout process":
+      "Please add one product at less to complete checkout process",
+  "Order placed successfully": "Order placed successfully",
+  'Checkout': 'Checkout',
+  'Payment Methods': 'Payment Methods',
+  'cash': 'cash',
+  'Payment Card': 'Payment Card',
+  "Point": "Point",
+  'Place Order': 'Place Order',
+  '   Add Coupon code': '   Add Coupon code',
+  "Check": "Check",
+  //categories
+  'Categories': 'Categories',
+  //cart
+  "Discount information sended to your email":
+      "Discount information sended to your email",
+  "Deleted successfully": "Deleted successfully",
+  'Cart': 'Cart',
+  "Cart Is Empty": "Cart Is Empty",
+  //all product
+  'All Products': 'All Products',
+  //forget password
+  "Password Reset Mail has been sent to your authorized Email":
+      "Password Reset Mail has been sent to your authorized Email",
+  'Forget Password': 'Forget Password',
+  "Please enter your email": "Please enter your email",
+  "We will send you a verify code to your\nemail":
+      "We will send you a verify code to your\nemail",
+  "(Required)": "(Required)",
+  //login
+  "Login successfully": "Login successfully",
+  'Login': 'Login',
+  "Welcome Back": "Welcome Back",
+  "Please Log in To Continue": "Please Log in To Continue",
+  "Don't have an account ?": "Don't have an account ?",
+  "Register now": "Register now",
+  "This account has been deleted. Contact the administration to restore it":
+      "This account has been deleted. Contact the administration to restore it",
+  //register
+  "Account created successfully please login ":
+      "Account created successfully please login ",
+  'Register': 'Register',
+  "Create account": "Create account",
+  "New to our platform? Complete the details below.":
+      "New to our platform? Complete the details below.",
+  "You have an account ?": "You have an account ?",
+  '(Optional)': '(Optional)',
+  " English Responsible Person Name :": " English Responsible Person Name :",
+  " Arabic Responsible Person Name :": " Arabic Responsible Person Name :",
+  " Responsible Person Mobile :": " Responsible Person Mobile :",
+  " Princedom Name :": " Princedom Name :",
+  'Person': 'Person',
+  'Company': 'Company',
+  'Upload Image (Optional)': 'Upload Image (Optional)',
+  "Replace Image": "Replace Image",
+  "Delete Image": "Delete Image",
+  "View Full Image": "View Full Image",
+  " English Company Name :": " English Company Name :",
+  " Arabic Company Name :": " Arabic Company Name :",
+  //helper
+  "Failed to lunch": "Failed to lunch",
+  'Please enter a valid name': 'Please enter a valid name',
+  'Please enter a valid email': 'Please enter a valid email',
+  'Please enter a valid phone number': 'Please enter a valid phone number',
+  "This field is required": "This field is required",
+  "Can't be less than": "Can't be less than",
+  "Can't be more than": "Can't be more than",
+  "Doesn't compare": "Doesn't compare",
+  //recovery
+  "Recovery": "Recovery",
+  'Find Driver': 'Find Driver',
+  "Distance :": "Distance :",
+  "Meter": "Meter",
+  "Choose a driver": "Choose a driver",
+  "Price :": "Price :",
+  "Request Service": "Request Service",
+  "Requested successfully": "Requested successfully",
+  // Moving Furniture
+  'Moving Furniture': 'Moving Furniture',
+  //services order details
+  "Services Order Details": "Services Order Details",
+  "Service Provider :": "Service Provider :",
+  'Service Name : ': 'Service Name : ',
+  'Company Responsible Person Mobile : ':
+      'Company Responsible Person Mobile : ',
+  'Company Email : ': 'Company Email : ',
+  "Driver Details :": "Driver Details :",
+  'Email : ': 'Email : ',
+  'Address : ': 'Address : ',
+  'Phone : ': 'Phone : ',
+  "Order Details :": "Order Details :",
+  'Service Cost : ': 'Service Cost : ',
+  'Service Cost After Offer : ': 'Service Cost After Offer : ',
+  'Payment Way : ': 'Payment Way : ',
+  "Accepted":"Accepted",
+  //company furniture details
+  'Companies':'Companies',
+   "Furniture Company Details": "Company Details",
+   'Drivers':'Drivers',
+};
